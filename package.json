@@ -36,7 +36,7 @@
 		"cookie-parser": "^1.4.4",
 		"cors": "^2.8.5",
 		"electron-is-dev": "^1.1.0",
-		"express": "^4.17.1",
+		"express": "^4.17.3",
 		"konva": "^4.0.10",
 		"mobx": "^5.13.0",
 		"mobx-react": "^6.1.3",
